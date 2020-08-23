@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="turn_on_flashlight">Turn On flash Light</string>
+    <string name="turn_off_flashlight">Turn Off flash Light</string>
+</resources>
